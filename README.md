@@ -10,13 +10,11 @@ The main objective is to convert raw business data into meaningful insights that
 
 Dataset
 
-Dataset: DataCo Smart Supply Chain Dataset
+This project uses the DataCo Smart Supply Chain Dataset, containing approximately 180,000 records and 50+ attributes related to customers, products, sales, orders, shipping, and delivery performance.
 
-The dataset contains approximately 180,000+ records and 50+ columns covering areas such as:
+The dataset was cleaned and analyzed using Python before being used for SQL analysis and Power BI visualization.
 
-Customer information Product and category details Sales and profit Orders and shipping Delivery performance Markets and regions Departments
-
-The dataset was used to analyze both business performance and supply chain efficiency.
+Note: The dataset files are not included in this repository due to GitHub file-size limitations. The analysis notebook contains the data-cleaning and preprocessing workflow used to prepare the dataset.
 
 Tools Used Python – Data cleaning and exploratory data analysis Pandas – Data manipulation and analysis Microsoft SQL Server – SQL-based business analysis Power BI – Interactive dashboard and visualization
 
